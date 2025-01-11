@@ -8,7 +8,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image:url(back_mob.jpg);
+    background-image:url(backgrd_pc.jpg);
     background-size: cover;
 }
 
@@ -103,7 +103,7 @@ body {
         font-family: Arial, sans-serif;
         background-image:url(back_mob.jpg);
         background-size: cover;
-	}
+    }
 
     .slide_menu{
         transition: 0.3s;
