@@ -27,7 +27,7 @@ body {
     right: -100%;
     position: fixed;
     flex-direction: column;
-    width: 100%;
+    width: 80%;
     border-radius: 10px;
     text-align: center;
     backdrop-filter: blur(20px);
