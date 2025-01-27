@@ -110,7 +110,7 @@ body {
     }
 
     .slide_menu.active {
-        right: 0;
+        right: 10%;
     }
 
     .nav-links {
